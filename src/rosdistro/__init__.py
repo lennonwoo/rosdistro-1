@@ -65,7 +65,7 @@ __version__ = '0.7.4'
 
 # index information
 
-DEFAULT_INDEX_URL = 'https://raw.githubusercontent.com/ros/rosdistro/master/index-v4.yaml'
+DEFAULT_INDEX_URL = 'https://raw.githubusercontent.com/lennonwoo/rosdistro/master/index-v4.yaml'
 
 
 def get_index_url():
